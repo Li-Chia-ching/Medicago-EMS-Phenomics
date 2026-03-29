@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Li-Chia-ching/Medicago-EMS-Phenomics: v1.0.0: Publication-Ready Phenomics Pipeline for EMS Mutagenesis"
+version: v1.0.0
+date-released: 2026-03-29
+authors:
+  - family-names: "Li"
+    given-names: "Jiaqing"
+    orcid: "https://orcid.org/0000-0002-4856-5524"
+  - family-names: "Lei"
+    given-names: "Huanwei"
+    orcid: "https://orcid.org/0009-0007-4062-5987"
